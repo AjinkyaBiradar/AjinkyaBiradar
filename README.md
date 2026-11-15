@@ -191,15 +191,31 @@ One-line description of what it does and why it matters.
 ### 🏆 Achievements
  
 <div align="center">
-![Smart India Hackathon](https://img.shields.io/badge/Smart_India_Hackathon-2026-7c3aed?style=for-the-badge&logo=github&logoColor=white)
-![AI/ML](https://img.shields.io/badge/Focus-AI_%2F_ML-a78bfa?style=for-the-badge&logo=pytorch&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/Focus-Full--Stack-6d28d9?style=for-the-badge&logo=react&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-4c1d95?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
- 
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏅-Hackathons-7c3aed?style=for-the-badge" alt="Hackathons"/><br/>
+<sub><b>Smart India Hackathon 2026</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖-AI_/_ML-a78bfa?style=for-the-badge" alt="AI/ML"/><br/>
+<sub><b>CV · Predictive Models · RAG</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌐-Full--Stack-6d28d9?style=for-the-badge" alt="Full-Stack"/><br/>
+<sub><b>Idea → API → UI → Deploy</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀-Innovation-4c1d95?style=for-the-badge" alt="Innovation"/><br/>
+<sub><b>Rapid AI Prototyping</b></sub>
+</td>
+</tr>
+</table>
 </div>
 ---
  
 <div align="center">
+
 
 ---
 
