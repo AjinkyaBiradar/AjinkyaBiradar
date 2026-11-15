@@ -180,6 +180,9 @@ One-line description of what it does and why it matters.
 
 </div>
 
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjinkyaBiradar&theme=react-dark&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Contribution activity graph" width="100%"/> </div>
+
 ### 🏆 Trophies
 
 <div align="center">
