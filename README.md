@@ -203,8 +203,6 @@ One-line description of what it does and why it matters.
 
 ---
 
-<div align="center">
-
 ### ✨ _"Make it work, make it right, make it fast."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer"/>
