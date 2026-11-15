@@ -180,16 +180,26 @@ One-line description of what it does and why it matters.
 
 </div>
 
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjinkyaBiradar&theme=react-dark&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Contribution activity graph" width="100%"/> </div>
-
-### 🏆 Trophies
-
+### 📈 Contribution Activity
+ 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AjinkyaBiradar&theme=radical&no-frame=true&no-bg=true&margin-w=6" alt="Trophies"/>
-
+<a href="https://github.com/AjinkyaBiradar">
+  <img src="https://ghchart.rshah.org/7c3aed/AjinkyaBiradar" alt="AjinkyaBiradar's contribution chart" width="95%"/>
+</a>
 </div>
+
+### 🏆 Achievements
+ 
+<div align="center">
+![Smart India Hackathon](https://img.shields.io/badge/Smart_India_Hackathon-2026-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![AI/ML](https://img.shields.io/badge/Focus-AI_%2F_ML-a78bfa?style=for-the-badge&logo=pytorch&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/Focus-Full--Stack-6d28d9?style=for-the-badge&logo=react&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-4c1d95?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+ 
+</div>
+---
+ 
+<div align="center">
 
 ---
 
