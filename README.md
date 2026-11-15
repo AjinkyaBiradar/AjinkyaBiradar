@@ -1,10 +1,10 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%2C%20I'm%20Ajinkya%20Biradar&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%2C%20I'm%20Ajinkya%20Biradar&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20Enthusiast%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Innovator&descAlignY=58&descSize=18&animation=fadeIn" alt="Banner" width="100%"/>
 
 <a href="https://github.com/AjinkyaBiradar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+high-leverage%2C+heavily+optimized+apps;Modern+web+stack+%2B+state-of-the-art+AI;Turning+real-world+problems+into+shipped+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Engineer+%F0%9F%8C%90;Innovator+turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,12 +18,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineer passionate about building **high-leverage, heavily optimized applications**. I specialize in the **modern web stack** and in integrating **state-of-the-art AI models** to solve real-world industry problems.
+I'm an **AI enthusiast** and **full-stack engineer** who loves turning bold ideas into working products. I build **high-leverage, heavily optimized applications** on the modern web stack and weave **state-of-the-art AI** into them, from computer vision and predictive models to RAG pipelines on vector databases, to solve real-world industry problems.
 
-- 🔭 Building: AI-powered products, from RAG pipelines to full-stack apps
-- 🧠 Exploring: computer vision, predictive modeling, vector databases
-- ⚡ Obsessed with: performance, clean architecture, and developer experience
-- 🤝 Open to: collaborations, hackathons, and interesting problems
+> 💡 *I'm driven by innovation: if a problem looks hard, that's usually where I want to build.*
+
+| | |
+|---|---|
+| 🤖 **AI Enthusiast** | Computer vision, predictive modeling, LLMs, RAG & vector search |
+| 🌐 **Full-Stack Engineer** | Idea → API → UI → deployment, end to end |
+| 🚀 **Innovator** | Hackathons, rapid prototyping, and AI products that solve real problems |
+| ⚡ **Obsessed with** | Performance, clean architecture, and great developer experience |
+
+🤝 Always open to collaborations, hackathons, and ambitious ideas, so let's build something.
 
 ---
 
