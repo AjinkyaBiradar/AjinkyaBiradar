@@ -180,14 +180,6 @@ One-line description of what it does and why it matters.
 
 </div>
 
-### 📈 Contribution Activity
- 
-<div align="center">
-<a href="https://github.com/AjinkyaBiradar">
-  <img src="https://ghchart.rshah.org/7c3aed/AjinkyaBiradar" alt="AjinkyaBiradar's contribution chart" width="95%"/>
-</a>
-</div>
-
 ### 🏆 Achievements
  
 <div align="center">
